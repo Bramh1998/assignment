@@ -8,3 +8,5 @@ opgeslagen assignments
 [Assignemnt week 5] (https://github.com/Bramh1998/assignment/blob/master/Assignment_week_5%20(1).ipynb)
 
 [Assignemnt week 6] (https://github.com/Bramh1998/assignment/blob/master/assignment4%20(2).ipynb)
+
+[Assignment week 8] (https://github.com/Bramh1998/assignment/blob/master/assignment5%20(1).ipynb)
